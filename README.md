@@ -22,7 +22,7 @@ Este projeto está em constante evolução. Se você quiser contribuir, fique à
 
 ## Contato
 
-Caso queira entrar em contato comigo, fique à vontade para me enviar uma mensagem:
+Caso queira entrar em contato comigo:
 
 - 📧 E-mail: wesley.giuliano@gmail.com
 
