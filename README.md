@@ -6,7 +6,7 @@ Este é o começo da minha jornada como desenvolvedor. Criado para aplicar os co
 
 Ao longo do desenvolvimento, fui desafiado a resolver problemas reais e melhorar minhas habilidades técnicas. Sou muito grato ao DevClub pelos ensinamentos e pela oportunidade de crescimento profissional que essa experiência proporcionou.
 
-Este projeto tem como objetivo [descrever a funcionalidade do projeto de forma concisa, por exemplo: gerenciar tarefas, criar um site, etc.]. Estou animado para continuar aprendendo e aprimorando minhas habilidades com projetos futuros.
+Este projeto tem como objetivo praticar e fixar tudo o que foi ensinado em aula até o momento. Estou animado para continuar aprendendo e aprimorando minhas habilidades com projetos futuros.
 
 ## 💻 Tecnologias Usadas
 
