@@ -2,7 +2,7 @@
 
 # Dev Start 🚀💥
 
-Este projeto marca o começo da minha jornada como desenvolvedor. Ele foi criado para aplicar os conceitos que venho aprendendo, desde lógica de programação até práticas de desenvolvimento mais avançadas. Através do apoio do [DevClub](https://aulas.devclub.com.br/), pude expandir meu conhecimento e ganhar confiança no processo de desenvolvimento de software.
+Este é o começo da minha jornada como desenvolvedor. Criado para aplicar os conceitos que venho aprendendo, desde lógica de programação até práticas de desenvolvimento mais avançadas. Através do apoio do [DevClub](https://aulas.devclub.com.br/), pude expandir meu conhecimento e ganhar confiança no processo de desenvolvimento de software.
 
 Ao longo do desenvolvimento, fui desafiado a resolver problemas reais e melhorar minhas habilidades técnicas. Sou muito grato ao DevClub pelos ensinamentos e pela oportunidade de crescimento profissional que essa experiência proporcionou.
 
