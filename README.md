@@ -24,9 +24,9 @@ Este projeto está em constante evolução. Se você quiser contribuir, fique à
 
 Caso queira entrar em contato comigo:
 
-- 📧 E-mail: wesley.giuliano@gmail.com
 
----
+<div style="display: flex; gap: 10px;"><a href="https://www.linkedin.com/in/wesleygmarin/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"> </a> <a href="https://www.instagram.com/wesley_giuliano/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="30" height="30"> </a> <a href="wesley.giuliano@gmail.com"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" width="30" height="30"> </a>
+<div/>
 
 <h1>Esse foi o nosso primeiro de muitos<h1/>
 
